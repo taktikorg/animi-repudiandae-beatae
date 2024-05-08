@@ -1,3 +1,14 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# ESlint Configurations
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+> Opinionated ESLint configurations for my projects.
+
+
+## Packages
+
+- [@taktikorg/animi-repudiandae-beatae-base](https://github.com/taktikorg/animi-repudiandae-beatae/tree/master/packages/eslint-config-base) - Base configuration for JavaScript and Typescript projects
+- [@taktikorg/animi-repudiandae-beatae](https://github.com/taktikorg/animi-repudiandae-beatae/tree/master/packages/eslint-config) - Base configuration + React and co.
+
+
+## License
+
+MIT © Alessio Occhipinti
